@@ -7,10 +7,10 @@
 
 ---
 <b> These are the ways to reach me : </b>
-<a href="https://www.facebook.com/prasadbia" target="_blank"><img align="center" alt="FB" src="https://img.shields.io/badge/facebook-FB-blue"</a>
-<a href="https://www.linkedin.com/in/buddhikaprasad" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-Twitter-lightblue"</a>
-<a href="https://www.instagram.com/prasadbia/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-Instagram-pink"</a>
-<a href="https://twitter.com/buddhikaPrasad" target="_blank"> <img align="center" src="https://img.shields.io/badge/twitter-twitter-red"</a>
+<a href="https://www.facebook.com/prasadbia" target="_blank"><img align="center" alt="FB" src="https://img.shields.io/badge/facebook-FB-blue"></a>
+<a href="https://www.linkedin.com/in/buddhikaprasad" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-Twitter-lightblue"></a>
+<a href="https://www.instagram.com/prasadbia/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-Instagram-pink"></a>
+<a href="https://twitter.com/buddhikaPrasad" target="_blank"> <img align="center" src="https://img.shields.io/badge/twitter-twitter-red"></a>
 
 ---
 <h3 align="center"> 🧑‍🎓  Languages learned : </h3> 
