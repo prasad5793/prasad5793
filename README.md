@@ -6,11 +6,11 @@
 <img width="100%" src="https://github.com/prasad5793/prasad5793.github.io/blob/master/asset/img/myvision.png" />
 
 ---
-<h3 align="center">🧑‍ 📫 These are the ways to reach me : </h3>
-
-<a href="https://www.linkedin.com/in/prasad5793/" target="_blank"><img align="center" alt="Linkedin Url" src="https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprasad5793%2F"></a> <a href="https://twitter.com/prasad5793" target="_blank"><img align="center" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprasad57930%2F">
-</a> <a href="https://stackoverflow.com/users/6483229/prasad5793" target="_blank"><img align="center" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=stack%20overflow&logo=stackoverflow&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%prasad5793%2F">
-</a>
+<b> These are the ways to reach me : </b>
+<a href="https://www.facebook.com/prasadbia" target="_blank"><img align="center" alt="FB" src="https://img.shields.io/badge/facebook-FB-blue"</a>
+<a href="https://www.linkedin.com/in/buddhikaprasad" target="_blank"><img align="center"    https://img.shields.io/badge/Twitter-Twitter-lightblue"</a>
+<a href="https://www.instagram.com/prasadbia/" target="_blank"><img align="center"    https://img.shields.io/badge/Instagram-Instagram-pink"</a>
+<a href="https://twitter.com/buddhikaPrasad" target="_blank"> <img align="center"    https://img.shields.io/badge/twitter-twitter-red"</a>
 
 ---
 <h3 align="center"> 🧑‍🎓  Languages learned : </h3> 
