@@ -3,7 +3,7 @@
 
 </br>
 
-<img width="100%" src="[https://github.com/prasad5793/prasad5793.github.io/blob/master/asset/img/myvision.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnumber8.com%2Fsoftware-developer-salary-trends-2022%2F&psig=AOvVaw3PdrUqRzJPPB06Xd1skZv3&ust=1685606712031000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiI15yWn_8CFQAAAAAdAAAAABAE)" />
+<img width="100%" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" />
 
 ---
 <b> These are the ways to reach me : </b>
